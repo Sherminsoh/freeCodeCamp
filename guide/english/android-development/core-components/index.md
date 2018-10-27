@@ -2,7 +2,7 @@
 title: Android core components
 ---
 # Android core components
-Core components are the essential elements which an app for Android consists of. Each of them has its own purpose and lifecycle but not all of them are independent. They are:
+Core components are the essential elements which an Android app consists of. Each of them has its own purpose and lifecycle but not all of them are independent. The core components are:
 
 - Activities
 - Services
